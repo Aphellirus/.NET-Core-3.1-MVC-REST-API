@@ -1,6 +1,6 @@
 # .NET-Core-3.1-MVC-REST-API
 
-#### This Commands API stores command line snippets along with a short description of what it does, as well as which platform it's for.
+#### This Commander API stores command line snippets along with a short description of what it does, as well as which platform it's for.
 
 
 #### Back-end project using:
