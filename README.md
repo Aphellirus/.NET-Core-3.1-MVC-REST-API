@@ -32,3 +32,8 @@ More specifically, i used the following:
        </ul>
   </tbody>
 </table>
+
+
+Application Architecture:
+![90770546-3bb67e00-e2f2-11ea-8932-17345061ae3c](https://user-images.githubusercontent.com/60182775/128473782-a78e5eb9-c411-4ed5-b7ec-72b612c383e0.png)
+
