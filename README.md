@@ -37,3 +37,6 @@ More specifically, i used the following:
 Application Architecture:
 ![90770546-3bb67e00-e2f2-11ea-8932-17345061ae3c](https://user-images.githubusercontent.com/60182775/128473782-a78e5eb9-c411-4ed5-b7ec-72b612c383e0.png)
 
+API Endpoints (CRUD):
+![90988359-79d1cd00-e592-11ea-8bad-990f6b2164ec](https://user-images.githubusercontent.com/60182775/128474307-6367d95b-b3ce-4586-92c4-4b19a7bf1ce4.png)
+
