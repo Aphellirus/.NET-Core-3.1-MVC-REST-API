@@ -46,6 +46,6 @@
 ![97652889-e1dedc80-1a35-11eb-8748-cd518f40c48b](https://user-images.githubusercontent.com/60182775/128475152-b349d881-7dbf-4e4b-aae0-fcbcb8061e59.png)
 
 #### Sample endpoints using Postman:
-Post method creates a new command, returns the location header with a link to the resource, as well as the '201 Created' status code.
+Post method creates a new command, returns the location header with a link to the resource, as well as the '201 Created' status code. <br>
 ![91677362-73060580-eb10-11ea-8097-6751b4c014d3](https://user-images.githubusercontent.com/60182775/128475475-bf296b82-39ce-42a1-9075-44ac2231ac8b.png)
 
