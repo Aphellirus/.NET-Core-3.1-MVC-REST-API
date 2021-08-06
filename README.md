@@ -9,6 +9,7 @@ Back-end project using:
          <li>.NET Core</li>
          <li>MVC Architectural Pattern</li>
          <li>C#</li>
+         <li>Docker</li>
        </ul>
   </tbody>
 </table>
